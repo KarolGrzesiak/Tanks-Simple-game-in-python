@@ -1,2 +1,2 @@
-# Tanks-Simple-game-in-python
+# TanksSimpleGame in python
 Simple game using pygame
